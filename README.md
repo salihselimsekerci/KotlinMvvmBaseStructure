@@ -6,10 +6,8 @@
  
 ## Clean Simple Architecture
 
-![Architecture](https://github.com/cagataymuhammet/NearBy/blob/master/images/arc.png)
-<p align="center">
-<img src="https://raw.githubusercontent.com/cagataymuhammet/KotlinMvvmBaseStructure/master/images/structure.png"/>
-</p>
+![Architecture](https://raw.githubusercontent.com/cagataymuhammet/KotlinMvvmBaseStructure/master/images/structure.png)
+
 
 
 ## Architecture
