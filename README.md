@@ -2,7 +2,11 @@
 
 [![kotlin](https://img.shields.io/badge/Kotlin-1.3.xxx-brightgreen.svg)](https://kotlinlang.org/) [![Kotlin-Android-Extensions](https://img.shields.io/badge/Kotlin--Android--Extensions-plugin-red.svg)](https://kotlinlang.org/docs/tutorials/android-plugin.html) [![MVVM](https://img.shields.io/badge/Clean--Code-MVVM-brightgreen.svg)](https://github.com/googlesamples/android-architecture) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/96a9f51de7eb4a00841953d51c48b968)](https://www.codacy.com/manual/cagataymuhammet/KotlinMvvmBaseStructure?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cagataymuhammet/KotlinMvvmBaseStructure&amp;utm_campaign=Badge_Grade) <a><img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat" alt="API" /></a>
   
-  
+ 
+ 
+## Clean Simple Architecture
+
+![Architecture](https://github.com/cagataymuhammet/NearBy/blob/master/images/arc.png)
 <p align="center">
 <img src="https://raw.githubusercontent.com/cagataymuhammet/KotlinMvvmBaseStructure/master/images/structure.png"/>
 </p>
